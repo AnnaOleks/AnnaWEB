@@ -26,11 +26,19 @@ ul{
 }
 p{
     text-align: left;
+    color: black;
 }
 h3{
     font-family: Georgia, Times, serif;
     letter-spacing: 2px;
     font-variant: small-caps;
     color: darkslategrey;
+    text-align: left;
+}
+#issue1{
+    font-family: Georgia, Times, serif;
+    letter-spacing: 2px;
+    font-variant: small-caps;
+    color: black;
     text-align: left;
 }
