@@ -55,3 +55,10 @@ h3{
     padding: 5px;
     float: right;
 }
+#issue2{
+    font-family: Georgia, Times, serif;
+    font-variant: small-caps;
+    width: 75%;
+    color: black;
+    text-align: left;
+}
