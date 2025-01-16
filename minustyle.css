@@ -44,6 +44,7 @@ h3{
 #issue1{
     font-family: Georgia, Times, serif;
     font-variant: small-caps;
+    width: 80%;
     color: black;
     text-align: left;
 }
