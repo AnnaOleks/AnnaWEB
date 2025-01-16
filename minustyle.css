@@ -25,10 +25,12 @@ body{
 ul{
     list-style-type: square;
     margin-left: 5%;
-    border: 1pt dotted darkslategrey;
+    border: 2pt solid darkslategrey;
     width: 20%;
     padding-left: 30px;
     padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 p{
     text-align: left;
